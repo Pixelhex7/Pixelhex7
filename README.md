@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm Pixelhex7! 👋
 
-<!--
-**Pixelhex7/Pixelhex7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer and creator. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔧 Languages & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+![Replit](https://img.shields.io/badge/-Replit-4D7EFB?style=flat&logo=replit&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-EE5A05?style=flat&logo=roblox&logoColor=white)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pixelhex7&show_icons=true&theme=dark)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pixelhex7&theme=dark)
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Pixelhex7)
